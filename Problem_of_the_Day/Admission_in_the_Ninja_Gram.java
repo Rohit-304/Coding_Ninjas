@@ -22,6 +22,24 @@ Where 'T' is the number of test cases, 'n' denotes the number of characters in t
 
 Time Limit: 1 sec
 
+Sample Input 1:
+
+2
+
+12
+
+toosmallword
+
+35
+
+TheQuickBrown Fox JumpsOverTheLazyDog
+
+Sample Output 1:
+
+NO
+
+YES
+
 */
 
 
