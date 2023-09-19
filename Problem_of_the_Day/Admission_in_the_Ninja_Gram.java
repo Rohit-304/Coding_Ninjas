@@ -1,7 +1,7 @@
 /* 
  
 Problem Statement
-
+ 
 Suggest Edit
 
 Ninja is shifting to a new place named NinjaGram. To take admission to the new school, the teacher gives him a sentence and asks him to check whether the sentence is a pangram.
