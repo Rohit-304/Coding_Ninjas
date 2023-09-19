@@ -40,6 +40,24 @@ NO
 
 YES
 
+Sample Input 2:
+
+2
+
+16
+
+CodingNinjas
+
+10
+
+CodeStudio
+
+Sample Output 2:
+
+NO
+
+NO
+
 */
 
 
