@@ -39,8 +39,8 @@ Sample Output 1:
 80 26
 
 100 37
-Sample Input 2:
 
+Sample Input 2:
 20
 
 119
@@ -48,7 +48,6 @@ Sample Input 2:
 13
 
 Sample Output 2:
-
 20 -6
 
 33 0
@@ -72,6 +71,8 @@ Sample Output 2:
 36
 
 111 43
+
+
 */
 
 
