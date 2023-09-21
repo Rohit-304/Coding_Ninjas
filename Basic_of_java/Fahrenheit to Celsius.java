@@ -18,19 +18,16 @@ Print the Fahrenheit and corresponding tab- separated (^ prime prime backslash t
 Output for every Fahrenheit and corresponding celsius value will be printed in a separate line.
 
 Constraints:
-
 theta <= S <= 80 
 S <= E <= 900
 theta <= W <= 4theta
 
 Sample Input 1:
-
 100
 
 20
 
 Sample Output 1:
-
 0 -17
 
 20 -6
