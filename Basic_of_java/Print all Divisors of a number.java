@@ -1,5 +1,5 @@
 /*
-Problem Statement
+Problem Statement:
 
 Given an integer 'N' return all the divisors of 'N' in ascending order
 
