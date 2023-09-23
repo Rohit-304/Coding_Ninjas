@@ -7,7 +7,7 @@ For Example:
 
 " N' = 5 .
 
-The divisors of 5 are 1, 5.
+The divisors of 5 are 1, 5. 
 Detailed explanation ( Input/output format, Notes, Images )
 Sample Input 1 :
 10
