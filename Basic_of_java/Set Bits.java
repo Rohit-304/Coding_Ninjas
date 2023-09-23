@@ -5,12 +5,16 @@
   of 1's in the binary representation of an integer.
    Sample Input 1:
 9
+
 Sample Output 1:
 2
+
 Explanation Of Sample Input 1:
 Binary Representation of 9 is 1001.
+
 Sample Input 2:
 13
+
 Sample Output 2:
 3
 
