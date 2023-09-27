@@ -14,7 +14,7 @@ Constraints:
 Sample Input 1:
 8 
 7 5 2 11 2 43 1 1 
-2
+2 
 Sample Output 1:
 4
 Explanation Of Sample Input 1:
