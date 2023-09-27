@@ -5,7 +5,7 @@ Input Format:
 The first line contains an integer N representing the size of the array.
 The next line contains N space-separated integers representing the elements of the array.
 The last line contains an integer 'x'.
-Output Format:
+Output Format: 
 The only line of the output prints the Index on -1.
 Constraints:
 1 <= N <=10^3
