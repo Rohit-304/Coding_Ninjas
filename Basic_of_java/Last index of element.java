@@ -13,7 +13,7 @@ Constraints:
 1 <= X < N
 Sample Input 1:
 8 
-7 5 2 11 2 43 1 1
+7 5 2 11 2 43 1 1 
 2
 Sample Output 1:
 4
