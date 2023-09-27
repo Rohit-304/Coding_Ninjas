@@ -7,7 +7,7 @@ The next line contains N space-separated integers representing the elements of t
 The last line contains an integer 'x'.
 Output Format: 
 The only line of the output prints the Index on -1.
-Constraints:
+Constraints: 
 1 <= N <=10^3
 1 <= arr[i] <= 10^9
 1 <= X < N
