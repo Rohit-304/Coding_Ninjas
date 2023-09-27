@@ -4,7 +4,7 @@ Detailed explanation (Input/output format)
 Input Format:
 The first line contains an integer N representing the size of the array.
 The next line contains N space-separated integers representing the elements of the array.
-The last line contains an integer 'x' whose index has to be found.
+The last line contains an integer 'x' whose index has to be found. 
 Output Format:
 The only line of the output prints the Index or -1.
 Constraints:
