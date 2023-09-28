@@ -4,7 +4,7 @@ Example:
 'k' = 1 rotated array = [2, 3, 4, 5, 1]
 'k' = 2 rotated array = [3, 4, 5, 1, 2]
 'k' = 3 rotated array = [4, 5, 1, 2, 3] and so on.
-Detailed explanation (Input/output format)
+Detailed explanation (Input/output format) 
 Input Format:
 The first line contains an integer 'n' representing the size of the array.
 The second line contains 'n' space- separated integers representing the elements of the array.
