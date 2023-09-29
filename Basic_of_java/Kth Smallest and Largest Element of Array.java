@@ -10,7 +10,7 @@ Constraints:
 1 <= K <= N
 - 10 ^ 9 <= Arr[i] <= 10 ^ 9
 Where 'T' is the total number of test cases, 'N' is the size of array 'Arr' and Arr[i] is the element of the given array.
-Sample Input 1:
+Sample Input 1: 
 2
 4 4
 5 6 7 2
