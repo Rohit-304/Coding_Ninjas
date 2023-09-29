@@ -10,7 +10,7 @@ Where 'N' is the size of the given array/list.And, ARR[i] denotes the i-th eleme
 Sample Input 1:
 2
 6
-0 1 2 2 1 0 
+0 1 2 2 1 0  
 7
 0 1 2 1 2 1 2
 Sample Output 1:
