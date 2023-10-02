@@ -7,7 +7,7 @@ Substring
 
 A substring is a contiguous sequence of characters within a string. Example: "cod" is a substring of "coding". Whereas "cdng" is not as the characters taken are not contiguous
 
-Detailed explanation
+Detailed explanation 
 
 (Input/output format. Notes
 
