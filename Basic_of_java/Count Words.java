@@ -17,7 +17,7 @@ Time Limit: 1 sec
 
 Sample Input 1:
 Coding Ninjas!
-Sample Output 1:
+Sample Output 1: 
 2
 Sample Input 2:
 this is a sample string
