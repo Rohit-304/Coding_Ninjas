@@ -11,7 +11,7 @@ Constraints:
 
 0 <= N <= 10 ^ 3
 
-Where N is the length of the input string.
+Where N is the length of the input string. 
 
 Time Limit: 1 sec
 
