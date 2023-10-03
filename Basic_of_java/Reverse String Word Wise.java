@@ -13,7 +13,7 @@ Sample Output 2:
 code your indent Always
 */
 import java.util.Scanner;
-
+ 
 class Solution {
 
     static String reverseStringWordWise(String input) {
