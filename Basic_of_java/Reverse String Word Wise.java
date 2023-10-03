@@ -4,7 +4,7 @@ Constraints:
 theta <= |S| <= 10 ^ 5 
 where |S| represents the length of string, S.
 Sample Input 1:
-Welcome to Coding Ninjas
+Welcome to Coding Ninjas 
 Sample Output 1:
 Ninjas Coding to Welcome
 Sample Input 2:
