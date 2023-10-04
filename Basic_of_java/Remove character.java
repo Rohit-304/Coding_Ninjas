@@ -5,7 +5,7 @@ Constraints:
 Where N is the length of the input string.
 Sample Input 1:
 aabccbaa
-a
+a 
 Sample Output 1:
 bccb
 Sample Input 2:
