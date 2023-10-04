@@ -11,7 +11,7 @@ Detailed explanation
 
 (Input/output format. Notes, Images)
 
-Constraints:
+Constraints: 
 
 0 <= N <= 10 ^ 6
 
