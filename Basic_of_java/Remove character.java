@@ -11,7 +11,7 @@ bccb
 Sample Input 2:
 xxyyzxx
 y
-Sample Output 2:
+Sample Output 2: 
 xxzxx
 */
 import java.util.* ;
