@@ -10,7 +10,7 @@ Sample Output 1:
 bccb
 Sample Input 2:
 xxyyzxx
-y
+y 
 Sample Output 2: 
 xxzxx
 */
