@@ -9,7 +9,7 @@ A substring is a contiguous sequence of characters within a string. Example: "co
 
 Detailed explanation 
 
-(Input/output format. Notes
+(Input/output format. Notes 
 
 Constraints:
 
