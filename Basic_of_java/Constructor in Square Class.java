@@ -5,7 +5,7 @@ All the Input and Output methods are take care by compiler you don't have to wor
 Sample Output 1:
 100
 49
-Explanation Of Sample Output 1:
+Explanation Of Sample Output 1: 
 In the above case first, we are creating the object of the default constructor after that creating the object of 
 parameterized constructor and passing the value of length equal to 7 and calling the calculateArea method respectively.
 */ 
