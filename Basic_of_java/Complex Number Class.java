@@ -8,7 +8,7 @@ e.g.:-if C1=4+i5 and C2=3+i1
 e.g.:-if C1 =4+i5 and C2=1+i2
       C1. multiply (C2) results in:
       C1=-6+i13 and C2=1+i2
-4. Print - This function prints the given complex number in the following format: a + ib
+4. Print - This function prints the given complex number in the following format: a + ib 
 Note:There is space before and after '+' (plus sign) and no space between 'i' (iota symbol) and b.
 Sample Input 1:
 4 5
