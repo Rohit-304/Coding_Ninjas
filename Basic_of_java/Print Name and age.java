@@ -8,7 +8,7 @@ Afzal
 67
 Sample Output 1:
 The name of the person is Afzal and the age is 67.
-Sample Input 2:
+Sample Input 2: 
 Ali
 30
 Sample Output 2:
